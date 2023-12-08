@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-[![Gmail Badge](https://img.shields.io/badge/-n.georgievpersonal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:n.georgievpersonal@gmail.com)](n.georgievpersonal@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:n.georgievpersonal@gmail.com)](n.georgievpersonal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-georgiev-1aa481220/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nikolay_seven/)
 
